@@ -16,14 +16,14 @@ This page contains frequently asked questions and their corresponding answers.
 
    If you can't find an answer to your problem on this page,
    see the :ref:`node-issues-help` page for next steps and more
-   resources. This is an update.
+   resources. This is an update. This is update 2.
 
 Why Am I Getting Errors While Connecting to MongoDB?
 ----------------------------------------------------
 
 If you have trouble connecting to a MongoDB deployment, see
 the :ref:`Connection Troubleshooting Guide <node-connection-troubleshooting>`
-for possible solutions.
+for possible solutions. This is update 2.
 
 .. _node-faq-connection-pool:
 
@@ -37,7 +37,7 @@ support concurrent requests to MongoDB in your application.
 The maximum size of each connection pool is set by the ``maxPoolSize`` option, which
 defaults to ``100``. If the number of in-use connections to a server reaches
 the value of ``maxPoolSize``, the next request to that server will wait
-until a connection becomes available.
+until a connection becomes available. This is update 3.
 
 In addition to the sockets needed to support your application's requests,
 each ``MongoClient`` instance opens two additional sockets per server
