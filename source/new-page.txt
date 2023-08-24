@@ -3,3 +3,6 @@ New Page
 ========
 
 This is a new page.
+
+.. figure:: /includes/figures/M220JS_hero.jpg
+   :alt: Banner for the MongoDB University Node.js Course
