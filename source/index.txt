@@ -30,7 +30,7 @@ You can add the driver to your application to work with MongoDB
 in JavaScript or TypeScript. For more information about downloading and
 installing the {+driver-short+}, see
 :ref:`Download and Install <node-quick-start-download-and-install>` in the
-Quick Start guide. Change 1 for DOP-3973.
+Quick Start guide. Change 1 for DOP-3973. Change 2.
 
 Quick Start
 -----------
